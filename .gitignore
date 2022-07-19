@@ -1,0 +1,11 @@
+# build directory
+target/
+
+# local env files
+.envrc
+.env
+
+# Editor directories and files
+.idea/
+.vscode
+*.iml
